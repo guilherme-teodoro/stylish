@@ -38,6 +38,11 @@ Garden Syntax [wiki](https://github.com/noprompt/garden/wiki/Syntax)
    [:button {:class (stylish/render button-style)}]]) ;; return: stylish_example-button-style-1
 ```
 
+## Contributors
+
+- [Marcelo Nomoto](https://github.com/mynomoto)
+- [Andrew Rosa](https://github.com/andrewhr)
+
 ## Thanks
 
 [Garden](https://github.com/noprompt/garden/) for a great Clojure CSS compiler
