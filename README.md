@@ -42,6 +42,7 @@ Garden Syntax [wiki](https://github.com/noprompt/garden/wiki/Syntax)
 
 - [Marcelo Nomoto](https://github.com/mynomoto)
 - [Andrew Rosa](https://github.com/andrewhr)
+- [Diego Souza](https://github.com/dgvncsz0f)
 
 ## Thanks
 
