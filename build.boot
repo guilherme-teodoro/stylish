@@ -29,3 +29,4 @@
   (comp
     (local-install)
     (sift :include [#".*\.jar"])
+    (push)))
