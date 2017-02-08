@@ -6,7 +6,7 @@ A better way to write CSS without selectors using [Garden](https://github.com/no
 
 ## Installation
 
-Add to project.clj: [stylish "0.1.0-SNAPSHOT"]
+Add to project.clj: [stylish "0.1.0"]
 
 ## How it works
 

@@ -7,7 +7,7 @@
 
 (task-options!
  pom {:project 'stylish
-      :version "0.0.1-SNAPSHOT"
+      :version "0.0.1"
       :description "A clojurescript way to write css without selectors"
       :url "https://github.com/guilherme-teodoro/stylish"
       :scm {:url "https://github.com/guilherme-teodoro/stylish"}
